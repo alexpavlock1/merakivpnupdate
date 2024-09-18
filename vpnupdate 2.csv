@@ -1,0 +1,7 @@
+Group- B Primary PDC,,
+Network Name,Network ID,Subnet
+Branch 456,N_12345678,192.168.130.0/24
+,,192.168.140.0/24
+,,192.168.150.0/24
+,,
+Branch 457,L_12345678,10.89.10.0/24
